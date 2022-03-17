@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>tables and form</title>
+</head>
+
+<body style="background-color: silver;">
+
+    <h1>Assignment #3</h1>
+    <p>This assignment is about forms and tables</p>
+    <!---------------------------------------------- forms ------------------------------------------------>
+    <ul>
+        <li>
+            <h2>forms</h2>
+        </li>
+    </ul>
+    <br>
+    <form style="text-align: center;" autocomplete="on">
+        <label><b>name</b></label>
+
+        <input placeholder=" enter your name" type="text" required>
+        &NoBreak; &NoBreak; &NoBreak; &NoBreak;
+
+        <label><b>email</b></label>
+
+        <input placeholder="imput email" type="email" required>
+        <br>
+        <br>
+        <label><b>Password</b></label>
+
+        <input placeholder="enter password" type="password">
+        &NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;
+        &NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;&NoBreak;
+        <label><b>contact</b></label>
+
+        <input placeholder="1234-1234567" type="tel" pattern="[o-9]{4}-[0-9]{7}" required>&nbsp;&nbsp;
+
+        <label><b>CNIC #</b></label>
+
+        <input placeholder="12345-1234567-1" type="tel" pattern="[0-9]{5}-[0-9]{7}-[0-9]{1}" required>
+        <p><B><ins>define your gender</ins></B></p>
+        <input type="radio" name="gender"><label>male</label>
+        <input type="radio" name="gender"><label>female</label>
+        <br>
+        <p><b><ins>Choose your favourite</ins></b></p>
+        <input type="checkbox" name="fav1"><label>bike</label>
+        <input type="checkbox" name="fav2"><label>car</label>
+        <input type="checkbox" name="fav3"><label>bus</label>
+        <input type="checkbox" name="fav4"><label>truck</label>
+        <p><b><ins> your date of birth </ins></b></p>
+        <input type="date">
+        <br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="file">
+        <br><br>
+        <textarea placeholder="enter your message" required></textarea>
+        <br>
+        <p><b><i>Click on submit</i></b></p>
+        <input type="submit">
+    </form>
+    <!---------------------------------------- Table ------------------------------------------->
+    <ul>
+        <li>
+            <h2>Tables</h2>
+        </li>
+    </ul>
+    <table style="width: 70%;" align="center" border="10px" style="color: cadetblue;">
+        <caption>
+            <h3><i>Record of Students</i></h3>
+        </caption>
+        <tr>
+            <th>student name</th>
+            <th>Marks</th>
+            <th>Grade</th>
+        </tr>
+        <tr>
+            <td>ahmed</td>
+            <td>90</td>
+            <td>A +</td>
+        </tr>
+        <tr>
+            <td>Usman</td>
+            <td>45</td>
+            <td>D -</td>
+        </tr>
+        <tr>
+            <td>Muzamil</td>
+            <td>80</td>
+            <td>A</td>
+        </tr>
+        <TR>
+            <td>Adil</td>
+            <td>25</td>
+            <td>F</td>
+        </TR>
+    </table>
+</body>
+
+</html>
