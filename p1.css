@@ -30,67 +30,60 @@
 #div1 
 {
     margin-left: 20px;
-    height: 300px;
+    height: 380px;
     width: 300px;
-    background-color: black;
+    background-color: white;
     display: inline-block;
 
 }
-#div1 :hover {
-   
-    height: 300px;
-    width: 300px;
-    background-color: black;
-    display: inline-block;
+#div1 :hover 
+{
     box-shadow: 5px 5px 25px grey, 0px 10px 25px black;
 }
 #div2
  {
-    height: 300px;
+    height: 380px;
     width: 300px;
-    background-color: black;
+    background-color:white;
     display: inline-block;
 }
 #div2:hover 
 {
-    height: 300px;
-    width: 300px;
-    background-color: black;
-    display: inline-block;
+   
     box-shadow: 5px 5px 25px purple,
     0px 10px 25px red;
 }
 #div3 
 {
-    height: 300px;
+    height: 380px;
     width: 300px;
-    background-color: black;
+    background-color: white;
     display: inline-block;
     
 }
 #div3 :hover
 {
-    height: 300px;
+    /* height: 300px;
     width: 300px;
     background-color: black;
-    display: inline-block;
+    display: inline-block; */
     box-shadow: 5px 5px 25px yellowgreen,
     0px 10px 25px yellow;
     
 }
 #div4
  {
-    height: 300px;
+    height: 380px;
     width: 300px;
-    background-color: black;
+    background-color: white;
     display: inline-block;
 }
 #div4:hover 
 {
-    height: 300px;
+    /* height: 300px;
     width: 300px;
     background-color: black;
-    display: inline-block;
+    display: inline-block; */ */
     box-shadow: 5px 5px 25px turquoise,
     0px 10px 25px teal;
 }
@@ -103,69 +96,69 @@ h1
 #div5 
 {
     margin-left: 20px;
-    height: 300px;
+    height: 380px;
     width: 300px;
-    background-color: black;
+    background-color:white;
     display: inline-block;
 
 }
 #div5:hover 
 {
-    margin-left: 20px;
+    /* margin-left: 20px;
     height: 300px;
     width: 300px;
     background-color: black;
-    display: inline-block;
+    display: inline-block; */
     box-shadow: 5px 5px 25px blueviolet,
     0px 10px 25px blue;
 
 }
 
 #div6 {
-    height: 300px;
+    height: 380px;
     width: 300px;
-    background-color: black;
+    background-color: white;
     display: inline-block;
 }
 #div6:hover
  {
-    height: 300px;
+    /* height: 300px;
     width: 300px;
     background-color: black;
-    display: inline-block;
+    display: inline-block; */
     box-shadow: 5px 5px 25px brown,
     0px 10px 25px red;
 }
 
 
 #div7 {
-    height: 300px;
+    height: 380px;
     width: 300px;
-    background-color: black;
+    background-color: white;
     display: inline-block;
 }
 #div7:hover
 {
-    height: 300px;
+    /* height: 300px;
     width: 300px;
     background-color: black;
-    display: inline-block;
+    display: inline-block; */
     box-shadow: 5px 5px 25px orange,
     0px 10px 25px orangered;
 }
 
 #div8 {
-    height: 300px;
+    height: 380px;
     width: 300px;
-    background-color: black;
+    background-color: white;
     display: inline-block;
 }
 #div8:hover
- {
+ {/* 
     height: 300px;
     width: 300px;
     background-color: black;
-    display: inline-block;
+    display: inline-block; */
     box-shadow: 5px 5px 25px greenyellow,
     0px 10px 25px green;
 }

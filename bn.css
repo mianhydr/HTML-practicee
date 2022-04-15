@@ -1,0 +1,94 @@
+#id1
+{
+    display: inline-block;
+    height: 360px;
+    width: 290px;
+    background-color: white;
+    margin-left: 30px
+}
+#id1:hover
+{
+    box-shadow: 5px 5px 25px teal;
+}
+#id2
+{
+    display: inline-block;
+    height: 360px;
+    width: 290px;
+    background-color: white;
+    margin-left: 5px;
+
+
+}
+
+#id2:hover
+{
+    box-shadow: 5px 5px 25px teal;
+}
+#id3
+ {
+    display: inline-block;
+    height: 360px;
+    width: 290px;
+    background-color: white;
+    margin-left: 5px
+}
+
+#id3:hover {
+    box-shadow: 5px 5px 25px teal;
+}
+#id4 {
+    display: inline-block;
+    height: 360px;
+    width: 290px;
+    background-color: white;
+    margin-left: 5px
+}
+
+#id4:hover {
+    box-shadow: 5px 5px 25px teal;
+}
+#id5 {
+    display: inline-block;
+    height: 360px;
+    width: 280px;
+    background-color: white;
+    margin-left: 20px
+}
+
+#id5:hover {
+    box-shadow: 5px 5px 25px teal;
+}
+#id6 {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin-left: 20px
+}
+
+#id6:hover {
+    box-shadow: 5px 5px 25px teal;
+}
+#id7 {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin-left: 20px
+}
+
+#id7:hover {
+    box-shadow: 5px 5px 25px teal;
+}
+#id8 {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin-left: 20px
+}
+
+#id8:hover {
+    box-shadow: 5px 5px 25px teal;
+}
